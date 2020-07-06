@@ -9,7 +9,7 @@
 
 
 
-#### ~~Summer~~ Midyear Classes are fast-paced
+#### Semestral Classes are chill-paced
 ![sem](images/sem.png)
 
 
