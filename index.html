@@ -12,21 +12,50 @@
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+		
+    <style>
+      .reveal .slides li li {
+        font-size: 0.85em;
+      }
+
+      code {
+        font-family: 'IBM Plex Mono', monospace !important;
+      }
+      
+      .course-code {
+        border-radius: 16px 0px 0px 16px; 
+        background-color: #3e2b72;
+        padding: 4px 8px 4px 8px;
+        color: #f4cb3d;
+        box-shadow: 4px 4px 8px -2px gray;
+      }
+
+      .course-title {
+        margin-left: -8px;
+        border-left: 0px;
+        text-transform: none;
+        padding: 4px 8px;
+        border-radius: 0px 16px 16px 0px;
+        color: #3e2b72;
+        background-color: #f4cb3d;
+        box-shadow: 0px 4px 8px -2px gray;
+      }
+    </style>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>
-					<h2>Welcome to SE-1223</h2>
-					<h3>Software Development II</h3>
-					<img src="images/orientation.jpg" alt="borientation">
-				</section>
-
+				<section data-markdown="intro.md" data-separator-vertical="\n\n\n"></section>
 				<section data-markdown="description.md" data-separator-vertical="\n\n\n"></section>
 				<section data-markdown="summer-pace.md" data-separator-vertical="\n\n\n"></section>
 				<section data-markdown="integrity.md" data-separator-vertical="\n\n\n"></section>
 			</div>
 		</div>
+		
+    <footer style="position: fixed; bottom: 8px; margin-left: 8px;">
+      <img src="images/cpu-logo.png" class="logo" alt="CP Logo">
+      <img src="images/se-logo.jpg" class="logo" alt="SE Logo">				
+		</footer>
 
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/notes/notes.js"></script>
