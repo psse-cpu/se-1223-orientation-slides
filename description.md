@@ -65,7 +65,7 @@ petshop is made up of pets, the veterinarian, shelves, customers, pet food, etc.
 ![inheritance](images/stopped.jpg)
 
 Things that can go wrong in our apps are also objects 😮, they're heavy, they get **throw**n around, 
-and can leave serious damage (translation:  our apps will crash) if we don't **catch** 'em.
+and will crash our apps if we don't **catch** 'em.
 
 
 
@@ -74,7 +74,7 @@ and can leave serious damage (translation:  our apps will crash) if we don't **c
 ![inheritance](images/docs.png)
 
 When our app has now 1337 different kinds of objects, our brains will melt.  We'll learn some
-notations to give us bird's eye views of how these objects are structured or interact.
+notations to give us bird's eye views of how these objects interact.
 
 
 
@@ -82,8 +82,8 @@ notations to give us bird's eye views of how these objects are structured or int
 
 ![inheritance](images/gui.jpg)
 
-We'll endure with boring CLI apps for a while, but your next Uber for Sardines startup idea
-needs a GUI right?  You'll build a mobile app or mobile game for your final project.
+CLI apps get boring after a while, but your next Uber for Sardines startup idea
+needs a GUI right?  You'll build a mobile app or game for your final project.
 
 
 
