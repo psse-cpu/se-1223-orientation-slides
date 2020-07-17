@@ -53,7 +53,7 @@ We can model them in our OOP code too.
 
 ### What you'll learn? (4/7)
 
-![inheritance](images/petshop.png)
+![composition](images/petshop.png)
 
 Build big objects that are **compose**d of smaller objects.  A
 petshop is made up of pets, the veterinarian, shelves, customers, pet food, etc.
@@ -62,7 +62,7 @@ petshop is made up of pets, the veterinarian, shelves, customers, pet food, etc.
 
 ### What you'll learn? (5/7)
 
-![inheritance](images/stopped.jpg)
+![exceptions](images/stopped.jpg)
 
 Things that can go wrong in our apps are also objects 😮, they're heavy, they get **throw**n around, 
 and will crash our apps if we don't **catch** 'em.
@@ -71,7 +71,7 @@ and will crash our apps if we don't **catch** 'em.
 
 ### What you'll learn? (6/7)
 
-![inheritance](images/docs.png)
+![docs](images/docs.png)
 
 When our app has now 1337 different kinds of objects, our brains will melt.  We'll learn some
 notations to give us bird's eye views of how these objects interact.
@@ -80,7 +80,7 @@ notations to give us bird's eye views of how these objects interact.
 
 ### What you'll learn? (7/7)
 
-![inheritance](images/gui.jpg)
+![gui](images/gui.jpg)
 
 CLI apps get boring after a while, but your next Uber for Sardines startup idea
 needs a GUI right?  You'll build a mobile app or game for your final project.
