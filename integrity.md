@@ -21,6 +21,7 @@
 * it will still backfire, one day when working, you'll have no one to copy from
   - remember Prov 10:9, you **will** be found out
 * only ~8% of PH grads can pass Stacktrek's exam for applicants
+  - they graduated but can't pass a **basic** coding exam?
 * but there's Google!
   - a bank in our country got hacked, for copying, **without understanding** -- StackOverflow code
     snippets that is neither meant to be complete nor secure, but just illustrates an idea
