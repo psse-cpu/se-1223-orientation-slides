@@ -95,8 +95,8 @@ needs a GUI right?  You'll build a mobile app or game for your final project.
   - variables
   - conditionals
   - loops
-  - arrays / lists
-  - functions
+  - ~~arrays / lists~~ (not covered last sem)
+  - ~~functions~~ (not covered last sem)
 
 
 
