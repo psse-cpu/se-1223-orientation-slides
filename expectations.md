@@ -53,7 +53,7 @@
     ![no record](images/not-rec.png)
 + English is the medium of instruction
   - **PRACTICE:** most software companies are multi-national  
-    ![fang](images/fang.png)
+    ![fang](images/fang.png) ![games](images/games.jpg)
 
 
 ### LEARN THE HARD WAY
